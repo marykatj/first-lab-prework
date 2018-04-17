@@ -1,3 +1,5 @@
 source 'https://rubygems.org'
-"Hi there"
+
 gem 'rspec'
+
+add "my-new-file.txt"
